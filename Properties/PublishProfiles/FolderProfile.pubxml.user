@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>\\qcwbwi06\c$\inetpub\TakeBlip</_PublishTargetUrl>
+    <History>True|2022-02-04T13:06:19.0460347Z;False|2022-02-04T10:05:42.5484174-03:00;True|2022-02-03T23:03:33.6728967-03:00;False|2022-02-03T23:01:32.3372564-03:00;</History>
+  </PropertyGroup>
+</Project>
